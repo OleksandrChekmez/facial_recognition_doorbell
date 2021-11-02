@@ -1,5 +1,6 @@
 # Facial Recognition Doorbell
 This project expands on the person-detecting doorbell system to allow it to identify faces, and announce names accordingly.
+https://www.tomshardware.com/how-to/raspberry-pi-person-detecting-doorbell
 
 
 ## Installation
